@@ -1,1 +1,9 @@
--e ".venv/\n__pycache__/\n.env\n*.log\n.faiss/\n*.idx\n*.bin\ndata/\n!data/sample_docs/\n" 
+.venv/ 
+__pycache__/ 
+.env 
+*.log 
+.faiss/ 
+*.idx 
+*.bin 
+data/ 
+!data/sample_docs/ 
