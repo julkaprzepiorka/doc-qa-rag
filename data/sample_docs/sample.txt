@@ -1,0 +1,5 @@
+Artificial Intelligence is a field of computer science focused on building systems that can perform tasks requiring human intelligence, such as understanding language or recognizing images.
+
+Machine learning is a subfield of AI. It is based on algorithms that learn patterns from data instead of being explicitly programmed. With enough examples, these models can make predictions or classify new information.
+
+Large Language Models (LLMs) are a type of machine learning model trained on very large text datasets. They can answer questions, summarize long documents, and generate human-like text.
